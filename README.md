@@ -3,7 +3,7 @@
 
 **Description:**
 Are you looking for a template, which you can use as a website for your company? Check WD-Blog! It's simple, creative and beautiful. It consists of different blocks, which you can change as you wish. Don't overthink just grab it and use:)
-### [LIVE](https://richboyscrytoo.github.io/WD-Blog/)
+### [LIVE](https://vladyslav-vasylenko.github.io/WD-Blog/)
 **Technologies used:**
  - HTML
  - CSS
